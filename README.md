@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DESERT
 Zero-Shot 3D Drug Design by Sketching and Generating (NeurIPS 2022)
 
@@ -84,3 +85,6 @@ bash generate.sh # fill blank paths in the file first
   year={2022}
 }
 ```
+=======
+# DESERT
+>>>>>>> 85ccd243eade4a4293bd286f8d4076b10b1d01e0
